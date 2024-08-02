@@ -14,10 +14,8 @@ The project involves:
 - Deployment on Google Cloud Dataproc
 
 ## Table of Contents
-1. [Setup the Environment](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20RDD-based%20API/CS570_week8_q2_20073_Aron_Dagniew.pdf)
-2. [Download Programs and Related Documentation](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20RDD-based%20API/CS570_week8_q2_20073_Aron_Dagniew.pdf)
-3. [Process of Program Execution](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20RDD-based%20API/CS570_week8_q2_20073_Aron_Dagniew.pdf)
-4. [Screenshot of Execution Results](https://github.com/ASD-Are/Big_Data/blob/main/Collaborative%20Filtering%20-%20RDD-based%20API/CS570_week8_q2_20073_Aron_Dagniew.pdf)
+1. [Setup the Environment](https://github.com/KadirbekSharau/BigData/blob/main/collaborative_filter-1/Kadirbek%20Sharau%208.pdf)
+
 
 ## Setup the Environment
 1. Open Google Cloud Console.
